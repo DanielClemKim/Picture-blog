@@ -1,6 +1,7 @@
 img {
   width: 30%;
   margin: calc(10% / 6);
+  border-radius: 5%;
 }
 
 nav {
